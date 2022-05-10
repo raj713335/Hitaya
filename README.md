@@ -131,6 +131,12 @@ Employees can do monthly health diagnoses, doctor appointments using Advance AI/
   $ cd Hitaya
 ```
 
+# Downloading the Hitaya Application Zip along with node_modules
+
+```
+	[Download The Hitaya Zip](https://drive.google.com/file/d/1AGaSRZ-8aGhM7rxwbfhXlDW2ldeerIoD/view?usp=sharing)
+```
+
 <!-- ## Running ASP .NEW CORE WEB API APPLICATION
 	
 	Run HITAYA_TSQL.sql script present in the project root directory
